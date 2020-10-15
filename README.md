@@ -9,6 +9,9 @@
 
 <hr>
 
+#### Current lang
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/512px-Unofficial_JavaScript_logo_2.svg.png" width=35> <img src="https://seeklogo.com/images/T/typescript-logo-B29A3F462D-seeklogo.com.png" width=35>
+
 # Contributing
 I need more support from all of you, Feel free to send Pull Request, We are very open to any contribution.
 
