@@ -1,13 +1,18 @@
-## Heyy!!!
+## Heyy 👋🏻
+Hey!! nice to meet you, you can call me Izuu, im just a newbie <br>
+i like make some bugs, and unreadable codes lol, hmm but im currently learning JavaScript and TypeScript.
 
+Want to see the Spaghetty Code? you choose the right person :)
+
+#### My discord
 # ![Discord](https://discord.c99.nl/widget/theme-2/271576733168173057.png)
 [![Discord](https://discordapp.com/api/guilds/272348156035989504/embed.png)](https://discord.gg/YmJEcFR)
-<img src ="https://badgen.net/badge/spaghetti/coder/red">
-<img src ="https://badgen.net/badge/rip/english/black">
+
 <br>
 
 <hr>
 
+# Currently learning
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/512px-Unofficial_JavaScript_logo_2.svg.png" width=35> <img src="https://seeklogo.com/images/T/typescript-logo-B29A3F462D-seeklogo.com.png" width=35>
 <a href="https://discord.js.org"><img src="https://cdn.discordapp.com/attachments/740865034887888996/740865173065170994/logo-square.png" width="35" alt="discord.js" /></a>
 <img height="35" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white"/>
