@@ -17,12 +17,11 @@ Want to see the Spaghetty Code? you choose the right person :)
 <a href="https://discord.js.org"><img src="https://cdn.discordapp.com/attachments/740865034887888996/740865173065170994/logo-square.png" width="35" alt="discord.js" /></a>
 <img height="35" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white"/>
 <img height="35" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-<img height="35" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
 <img height="35" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=whitee"/>
 <img height="35" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white"/>
 
 <hr>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VeguiIzumi&show_icons=true&theme=radical)](https://github.com/VeguiIzumi)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VeguiIzumi&layout=compact&show_icons=true&theme=radical)](https://github.com/VeguiIzumi)
 ![I Seizuu's github stats](https://github-readme-stats.vercel.app/api?username=VeguiIzumi&show_icons=true&theme=radical)
