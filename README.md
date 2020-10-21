@@ -6,6 +6,8 @@ Want to see the Spaghetti Code? you choose the right person :)
 
 #### My discord
 ![Discord](https://discord.c99.nl/widget/theme-2/271576733168173057.png)
+
+
 [![Discord](https://discordapp.com/api/guilds/272348156035989504/embed.png)](https://discord.gg/YmJEcFR)
 
 <br>
