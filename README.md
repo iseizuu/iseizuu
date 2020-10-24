@@ -24,6 +24,12 @@ Want to see the Spaghetti Code? you choose the right person :)
 
 <hr>
 
-
+<details>
+  <summary>Github Stats</summary>
+  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VeguiIzumi&layout=compact&show_icons=true&theme=radical)](https://github.com/VeguiIzumi)
 ![I Seizuu's github stats](https://github-readme-stats.vercel.app/api?username=VeguiIzumi&show_icons=true&theme=radical)
+
+</details>
+
+
