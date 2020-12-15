@@ -7,7 +7,7 @@ Want to see the Spaghetti Code? you choose the right person :)
 #### My discord
 ![Discord](https://discord.c99.nl/widget/theme-2/271576733168173057.png)
 
-<img src="https://komarev.com/ghpvc/?username=veguiizumi&label=Profile%20views&color=0e75b6&style=flat" alt="aizuu" />  [![Discord](https://discordapp.com/api/guilds/272348156035989504/embed.png)](https://discord.gg/YmJEcFR)
+<img src="https://komarev.com/ghpvc/?username=iseizuu&label=Profile%20views&color=0e75b6&style=flat" alt="aizuu" />  [![Discord](https://discordapp.com/api/guilds/272348156035989504/embed.png)](https://discord.gg/YmJEcFR)
 
 <br>
 
@@ -26,8 +26,8 @@ Want to see the Spaghetti Code? you choose the right person :)
 <details>
   <summary>Github Stats</summary>
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VeguiIzumi&layout=compact&show_icons=true&theme=radical)](https://github.com/VeguiIzumi)
-![I Seizuu's github stats](https://github-readme-stats.vercel.app/api?username=VeguiIzumi&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iseizuu&layout=compact&show_icons=true&theme=radical)](https://github.com/VeguiIzumi)
+![I Seizuu's github stats](https://github-readme-stats.vercel.app/api?username=iseizuu&show_icons=true&theme=radical)
 
 </details>
 
