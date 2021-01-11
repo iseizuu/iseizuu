@@ -7,7 +7,7 @@ Want to see the Spaghetti Code? you choose the right person :)
 #### My discord
 ![Discord](https://discord.c99.nl/widget/theme-2/271576733168173057.png)
 
-<img src="https://komarev.com/ghpvc/?username=iseizuu&label=Profile%20views&color=0e75b6&style=flat" alt="aizuu" />  [![Discord](https://discordapp.com/api/guilds/272348156035989504/embed.png)](https://discord.gg/YmJEcFR)
+<img src="https://komarev.com/ghpvc/?username=iseizuu&label=Profile%20views&color=0e75b6&style=flat" alt="aizuu" />  [![Discord](https://discordapp.com/api/guilds/272348156035989504/embed.png)](https://discord.gg/WeEYT4KYbp)
 
 <br>
 
