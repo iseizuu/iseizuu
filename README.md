@@ -1,5 +1,5 @@
 ## Heyy 👋🏻
-Hey!! nice to meet you, you can call me Izuu, im just a newbie <br>
+Hey!! nice to meet you, you can call me Izuu (he/him), im just a newbie <br>
 i like make some bugs, and unreadable codes lol, hmm but im currently learning JavaScript and TypeScript.
 
 Want to see the Spaghetti Code? you choose the right person :)
