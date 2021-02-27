@@ -5,7 +5,7 @@ i like make some bugs, and unreadable codes lol, hmm but im currently learning J
 Want to see the Spaghetti Code? you choose the right person :)
 
 #### My discord
-![Discord](https://discord.c99.nl/widget/theme-2/271576733168173057.png)
+[![Discord](https://discord.c99.nl/widget/theme-2/271576733168173057.png)](https://discord.com/users/271576733168173057)
 
 <img src="https://komarev.com/ghpvc/?username=iseizuu&label=Profile%20views&color=0e75b6&style=flat" alt="aizuu" />  [![Discord](https://discordapp.com/api/guilds/272348156035989504/embed.png)](https://discord.gg/WeEYT4KYbp)
 
