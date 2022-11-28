@@ -1,5 +1,7 @@
 <div>
 <img src="https://i.pinimg.com/564x/a8/af/4a/a8af4aafc537cfe52c90819f395ed5ad.jpg" width="200" align="right" />
+  <br>
+  <br>
   <h1> About Me 👋🏻 </h1>
 Hey!! nice to meet you, you can call me Izuu/yukina/aldyzt (he/him), im just a newbie <br>
 i like make some bugs, and unreadable codes, hmm but im currently learning JavaScript and TypeScript.
@@ -11,6 +13,8 @@ Want to see the Spaghetti Code? you choose the right person :)
 
 <img src="https://komarev.com/ghpvc/?username=iseizuu&label=Profile%20views&color=0e75b6&style=flat" alt="aizuu" />  [![Discord](https://discordapp.com/api/guilds/754960201215508521/embed.png)](https://discord.gg/dveQtqx)
 </div>
+
+
 <div>
 <img src="https://i.pinimg.com/564x/5c/31/40/5c31403c303a210076f68fe2da1f404c.jpg" width="300" align="left" />
 <hr>
