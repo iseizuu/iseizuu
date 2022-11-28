@@ -1,19 +1,22 @@
-## Heyy 👋🏻
-Hey!! nice to meet you, you can call me Izuu (he/him), im just a newbie <br>
-i like make some bugs, and unreadable codes lol, hmm but im currently learning JavaScript and TypeScript.
+<div>
+<img src="https://i.pinimg.com/564x/a8/af/4a/a8af4aafc537cfe52c90819f395ed5ad.jpg" width="200" align="right" />
+  <h1> About Me 👋🏻 </h1>
+Hey!! nice to meet you, you can call me Izuu/yukina/aldyzt (he/him), im just a newbie <br>
+i like make some bugs, and unreadable codes, hmm but im currently learning JavaScript and TypeScript.
 
 Want to see the Spaghetti Code? you choose the right person :)
 
 ####
 <!-- [![Discord](https://discord.c99.nl/widget/theme-2/271576733168173057.png)](https://discord.com/users/271576733168173057) -->
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=o3cf52ih4kob54iewzpjduykf&cover_image=true&theme=natemoo-re&bar_color=3dd8ff&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=o3cf52ih4kob54iewzpjduykf&redirect=true)
 
 <img src="https://komarev.com/ghpvc/?username=iseizuu&label=Profile%20views&color=0e75b6&style=flat" alt="aizuu" />  [![Discord](https://discordapp.com/api/guilds/754960201215508521/embed.png)](https://discord.gg/dveQtqx)
-
-<br>
-
+</div>
+<div>
+<img src="https://i.pinimg.com/564x/5c/31/40/5c31403c303a210076f68fe2da1f404c.jpg" width="300" align="left" />
 <hr>
-
+  
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=o3cf52ih4kob54iewzpjduykf&cover_image=true&theme=natemoo-re&bar_color=3dd8ff&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=o3cf52ih4kob54iewzpjduykf&redirect=true)
+  
 #### languages and tools I've used
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/512px-Unofficial_JavaScript_logo_2.svg.png" width=20> <img src="https://seeklogo.com/images/T/typescript-logo-B29A3F462D-seeklogo.com.png" width=20>
 <a href="https://discord.js.org"><img src="https://cdn.discordapp.com/attachments/740865034887888996/740865173065170994/logo-square.png" width="20" alt="discord.js" /></a>
@@ -32,7 +35,5 @@ Want to see the Spaghetti Code? you choose the right person :)
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iseizuu&layout=compact&show_icons=true&theme=radical)](https://github.com/iseizuu)
 ![I Seizuu's github stats](https://github-readme-stats.vercel.app/api?username=iseizuu&show_icons=true&theme=radical)
-
 </details>
-
-
+</div>
