@@ -1,5 +1,5 @@
 <div>
-<img src="https://i.pinimg.com/564x/a8/af/4a/a8af4aafc537cfe52c90819f395ed5ad.jpg" width="500" align="right" />
+<img src="https://i.pinimg.com/564x/a8/af/4a/a8af4aafc537cfe52c90819f395ed5ad.jpg" width="200" align="right" />
   <h1> About Me 👋🏻 </h1>
 Hey!! nice to meet you, you can call me Izuu/yukina/aldyzt (he/him), im just a newbie <br>
 i like make some bugs, and unreadable codes, hmm but im currently learning JavaScript and TypeScript.
