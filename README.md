@@ -1,8 +1,7 @@
 <div>
 <img src="https://i.pinimg.com/564x/a8/af/4a/a8af4aafc537cfe52c90819f395ed5ad.jpg" width="200" align="right" />
   <h1> About Me 👋🏻 </h1>
-Hey!! nice to meet you, you can call me Izuu/yukina/aldyzt (he/him), im just a newbie <br>
-i like make some bugs, and unreadable codes, hmm but im currently learning JavaScript and TypeScript.
+Hello, I'm Aizuu you can call me Aldyzt or Aizuu. I'm a front-end/back-end developer <br>Hmm but im currently learning JavaScript, TypeScript, C#.
 
 Want to see the Spaghetti Code? you choose the right person :)
 
