@@ -17,7 +17,7 @@ Want to see the Spaghetti Code? you choose the right person :)
 <img src="https://i.pinimg.com/564x/db/62/14/db6214741ff3e50fa759c0abdd9c5533.jpg" width="300" align="left" />
 <hr>
   
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=o3cf52ih4kob54iewzpjduykf&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=o3cf52ih4kob54iewzpjduykf&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=o3cf52ih4kob54iewzpjduykf&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=o3cf52ih4kob54iewzpjduykf&redirect=true)
   
 #### languages and tools I've used
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/512px-Unofficial_JavaScript_logo_2.svg.png" width=20> <img src="https://seeklogo.com/images/T/typescript-logo-B29A3F462D-seeklogo.com.png" width=20>
